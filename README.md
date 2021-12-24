@@ -20,7 +20,6 @@ A game where YOU the player has to catch a sqaure that's falling before it reach
       - [ ] Switches to the game on click from the mouse
   - [ ] Create Option Text
     - [ ] Make Option function
-      - [ ] Option to set the volume
       - [ ] Option to change the player color
       - [ ] Option to change falling block border color 
       - [ ] Option to to change text colors
